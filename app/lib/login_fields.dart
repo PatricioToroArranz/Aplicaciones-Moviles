@@ -94,7 +94,7 @@ class _LoginFieldsState extends State<LoginFields> {
             const SizedBox(height: 16), // Espacio vertical
 
             const Text(
-              "Bienvenido Toribio", // Texto de bienvenida
+              "Bienvenido a la Comunidad Toritana", // Texto de bienvenida
               style: TextStyle(
                 fontSize: 22,
                 fontWeight: FontWeight.w600,
